@@ -427,3 +427,12 @@ button:hover {
   font-style: italic;
   display: none
 }
+
+.footer{
+  height: 30px;
+  color: whitesmoke;
+  font-style: italic;
+  background-color: #14283B;
+  text-align: center;
+  font-size: medium;
+}
